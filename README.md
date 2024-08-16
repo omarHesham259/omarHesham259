@@ -1,6 +1,6 @@
 - 👋 Hi, I’m omar Hesham
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Person
+- 🌱 I’m currently learning Person Btech
 - 📫 How to reach me (Discord:omar_hesham_ahmed)
 - ⚡ Fun fact: Iam a student
 
