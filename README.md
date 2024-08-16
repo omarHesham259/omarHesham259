@@ -1,4 +1,4 @@
-- 👋 Hi, I’m omar Hesha,
+- 👋 Hi, I’m omar Hesham
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Person
 - 📫 How to reach me (Discord:xx__omarhesham__x)
