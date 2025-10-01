@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PYTHON<br>🎯 Goals: ...<br>🎲 Fun fact:🪿🪿</p>
+<p align="left">📚 I'm currently learning PYTHON<br>🎯 Goals: To Be The Best Of Myself<br>🎲 Fun fact:🪿🪿</p>
 
 ###
 
