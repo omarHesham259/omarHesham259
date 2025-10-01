@@ -6,6 +6,12 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29pMGVkaXBiYnQxbTI0czVvbnV6Yjlpa2tzeDdiNHJoaHdrZjNjcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -21,7 +27,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
