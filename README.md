@@ -1,51 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omarheshamahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/omarhes60562154) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarheshamahmedradwan@gmail.com) 
 
-<h2 align="center">My name is  Omar Hesham and I'm a .Cyber Security Engenner, from Egypt</h2>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omarHesham259&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omarHesham259&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarHesham259&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=omarHesham259&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29pMGVkaXBiYnQxbTI0czVvbnV6Yjlpa2tzeDdiNHJoaHdrZjNjcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning PYTHON<br>🎯 Goals: To Be The Best Of Myself<br>🎲 Fun fact:🪿🪿</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/omarheshamahmed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31608453/omar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <h3>Personal Email:omarheshamahmedradwan@gmail.com</h3>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
